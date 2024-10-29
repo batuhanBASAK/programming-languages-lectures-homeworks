@@ -1,1 +1,1 @@
-# programming-lectures-homeworks
+# programming-languages-lectures-homeworks
